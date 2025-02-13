@@ -12,7 +12,7 @@ export default function Index() {
     >
       <Text className="font-bold text-lg my-10">Home</Text>
       <Link href="/sign-in">Sign In</Link>
-      <Link href="/explorer">Explore</Link>
+      <Link href="/explore">Explore</Link>
       <Link href="/profile">Profile</Link>
       <Link href="/properties/1">Property</Link>
     </View>
